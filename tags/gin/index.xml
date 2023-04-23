@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>gin on jieyong&#39;s Blog</title>
+    <link>https://www.aiforagc.com/tags/gin/</link>
+    <description>Recent content in gin on jieyong&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 22 Apr 2023 13:55:10 +0800</lastBuildDate><atom:link href="https://www.aiforagc.com/tags/gin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gin：轻量级 Go Web 框架</title>
+      <link>https://www.aiforagc.com/posts/go_gin/</link>
+      <pubDate>Sat, 22 Apr 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/posts/go_gin/</guid>
+      <description>gin框架简介 Gin是一个基于Go语言的轻量级Web框架。它内置了常用的中间件，提供了更为简单、高效的API，能够快速搭建RESTful风格</description>
+    </item>
+    
+  </channel>
+</rss>

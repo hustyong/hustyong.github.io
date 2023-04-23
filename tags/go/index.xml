@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>go on jieyong&#39;s Blog</title>
+    <link>https://www.aiforagc.com/tags/go/</link>
+    <description>Recent content in go on jieyong&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 23 Apr 2023 13:55:10 +0800</lastBuildDate><atom:link href="https://www.aiforagc.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go context超时取消并发goroutine</title>
+      <link>https://www.aiforagc.com/posts/go_context/</link>
+      <pubDate>Sun, 23 Apr 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/posts/go_context/</guid>
+      <description>1.场景 最近在写redis 集群的控制面，有一个功能是删除集群中的某个redis 实例，需要在60秒内向整个集群的其他redis 实例发生forg</description>
+    </item>
+    
+    <item>
+      <title>Gin：轻量级 Go Web 框架</title>
+      <link>https://www.aiforagc.com/posts/go_gin/</link>
+      <pubDate>Sat, 22 Apr 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/posts/go_gin/</guid>
+      <description>gin框架简介 Gin是一个基于Go语言的轻量级Web框架。它内置了常用的中间件，提供了更为简单、高效的API，能够快速搭建RESTful风格</description>
+    </item>
+    
+    <item>
+      <title>从语言设计到应用领域：比较Go和C&#43;&#43;的异同</title>
+      <link>https://www.aiforagc.com/posts/go_comp_cplus/</link>
+      <pubDate>Mon, 13 Mar 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/posts/go_comp_cplus/</guid>
+      <description>作为两种常见的编程语言，Go和C++有着显著的不同之处。下面将从语言设计和哲学、语法和表达能力、并发编程、内存管理、性能、包管理、其他特性、</description>
+    </item>
+    
+    <item>
+      <title>优化性能：GO内存使用的最佳实践</title>
+      <link>https://www.aiforagc.com/posts/go_mem_user/</link>
+      <pubDate>Mon, 13 Feb 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/posts/go_mem_user/</guid>
+      <description>Go 通过三色标记法实现自动内存管理，使程序员不需要手动管理内存，从而解放了程序员的双手。然而，如果不合理使用内存，仍然会导致内存泄漏或者影响垃</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>🧩 标签 on jieyong&#39;s Blog</title>
+    <link>https://www.aiforagc.com/tags/</link>
+    <description>Recent content in 🧩 标签 on jieyong&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 23 Apr 2023 13:55:10 +0800</lastBuildDate><atom:link href="https://www.aiforagc.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>context</title>
+      <link>https://www.aiforagc.com/tags/context/</link>
+      <pubDate>Sun, 23 Apr 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/tags/context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://www.aiforagc.com/tags/go/</link>
+      <pubDate>Sun, 23 Apr 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>限流</title>
+      <link>https://www.aiforagc.com/tags/%E9%99%90%E6%B5%81/</link>
+      <pubDate>Sun, 23 Apr 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/tags/%E9%99%90%E6%B5%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gin</title>
+      <link>https://www.aiforagc.com/tags/gin/</link>
+      <pubDate>Sat, 22 Apr 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/tags/gin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web 框架</title>
+      <link>https://www.aiforagc.com/tags/web-%E6%A1%86%E6%9E%B6/</link>
+      <pubDate>Sat, 22 Apr 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/tags/web-%E6%A1%86%E6%9E%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis</title>
+      <link>https://www.aiforagc.com/tags/redis/</link>
+      <pubDate>Thu, 23 Mar 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/tags/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zset</title>
+      <link>https://www.aiforagc.com/tags/zset/</link>
+      <pubDate>Thu, 23 Mar 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/tags/zset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://www.aiforagc.com/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 13 Mar 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k8s</title>
+      <link>https://www.aiforagc.com/tags/k8s/</link>
+      <pubDate>Fri, 10 Mar 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minikube</title>
+      <link>https://www.aiforagc.com/tags/minikube/</link>
+      <pubDate>Fri, 10 Mar 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/tags/minikube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>内存优化</title>
+      <link>https://www.aiforagc.com/tags/%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/</link>
+      <pubDate>Mon, 13 Feb 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/tags/%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

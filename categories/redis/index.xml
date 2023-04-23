@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>redis on jieyong&#39;s Blog</title>
+    <link>https://www.aiforagc.com/categories/redis/</link>
+    <description>Recent content in redis on jieyong&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 23 Mar 2023 13:55:10 +0800</lastBuildDate><atom:link href="https://www.aiforagc.com/categories/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redis 实现高效有序集合(zset)：跳表源码分析</title>
+      <link>https://www.aiforagc.com/posts/redis_zset/</link>
+      <pubDate>Thu, 23 Mar 2023 13:55:10 +0800</pubDate>
+      
+      <guid>https://www.aiforagc.com/posts/redis_zset/</guid>
+      <description>跳表 跳表（Skip List）是一种基于随机化的数据结构，它通过多层索引来加速数据的查找，可以看作是一种高效的平衡树结构。跳表的插入、删除和查</description>
+    </item>
+    
+  </channel>
+</rss>
