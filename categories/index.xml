@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on jieyong&#39;s Blog</title>
-    <link>https://www.aiforagc.com/categories/</link>
+    <link>http://www.aiforagc.com/categories/</link>
     <description>Recent content in Categories on jieyong&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 23 Apr 2023 13:55:10 +0800</lastBuildDate><atom:link href="https://www.aiforagc.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Apr 2023 13:55:10 +0800</lastBuildDate><atom:link href="http://www.aiforagc.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>go</title>
-      <link>https://www.aiforagc.com/categories/go/</link>
+      <link>http://www.aiforagc.com/categories/go/</link>
       <pubDate>Sun, 23 Apr 2023 13:55:10 +0800</pubDate>
       
-      <guid>https://www.aiforagc.com/categories/go/</guid>
+      <guid>http://www.aiforagc.com/categories/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>系统保护</title>
-      <link>https://www.aiforagc.com/categories/%E7%B3%BB%E7%BB%9F%E4%BF%9D%E6%8A%A4/</link>
+      <link>http://www.aiforagc.com/categories/%E7%B3%BB%E7%BB%9F%E4%BF%9D%E6%8A%A4/</link>
       <pubDate>Sun, 23 Apr 2023 13:55:10 +0800</pubDate>
       
-      <guid>https://www.aiforagc.com/categories/%E7%B3%BB%E7%BB%9F%E4%BF%9D%E6%8A%A4/</guid>
+      <guid>http://www.aiforagc.com/categories/%E7%B3%BB%E7%BB%9F%E4%BF%9D%E6%8A%A4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redis</title>
-      <link>https://www.aiforagc.com/categories/redis/</link>
+      <link>http://www.aiforagc.com/categories/redis/</link>
       <pubDate>Thu, 23 Mar 2023 13:55:10 +0800</pubDate>
       
-      <guid>https://www.aiforagc.com/categories/redis/</guid>
+      <guid>http://www.aiforagc.com/categories/redis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>k8s</title>
-      <link>https://www.aiforagc.com/categories/k8s/</link>
+      <link>http://www.aiforagc.com/categories/k8s/</link>
       <pubDate>Fri, 10 Mar 2023 13:55:10 +0800</pubDate>
       
-      <guid>https://www.aiforagc.com/categories/k8s/</guid>
+      <guid>http://www.aiforagc.com/categories/k8s/</guid>
       <description></description>
     </item>
     

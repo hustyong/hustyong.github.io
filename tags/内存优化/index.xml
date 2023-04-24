@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>内存优化 on jieyong&#39;s Blog</title>
-    <link>https://www.aiforagc.com/tags/%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/</link>
+    <link>http://www.aiforagc.com/tags/%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/</link>
     <description>Recent content in 内存优化 on jieyong&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Feb 2023 13:55:10 +0800</lastBuildDate><atom:link href="https://www.aiforagc.com/tags/%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2023 13:55:10 +0800</lastBuildDate><atom:link href="http://www.aiforagc.com/tags/%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>优化性能：GO内存使用的最佳实践</title>
-      <link>https://www.aiforagc.com/posts/go_mem_user/</link>
+      <link>http://www.aiforagc.com/posts/go_mem_user/</link>
       <pubDate>Mon, 13 Feb 2023 13:55:10 +0800</pubDate>
       
-      <guid>https://www.aiforagc.com/posts/go_mem_user/</guid>
+      <guid>http://www.aiforagc.com/posts/go_mem_user/</guid>
       <description>Go 通过三色标记法实现自动内存管理，使程序员不需要手动管理内存，从而解放了程序员的双手。然而，如果不合理使用内存，仍然会导致内存泄漏或者影响垃</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>context on jieyong&#39;s Blog</title>
-    <link>https://www.aiforagc.com/tags/context/</link>
+    <link>http://www.aiforagc.com/tags/context/</link>
     <description>Recent content in context on jieyong&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 23 Apr 2023 13:55:10 +0800</lastBuildDate><atom:link href="https://www.aiforagc.com/tags/context/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Apr 2023 13:55:10 +0800</lastBuildDate><atom:link href="http://www.aiforagc.com/tags/context/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go context超时取消并发goroutine</title>
-      <link>https://www.aiforagc.com/posts/go_context/</link>
+      <link>http://www.aiforagc.com/posts/go_context/</link>
       <pubDate>Sun, 23 Apr 2023 13:55:10 +0800</pubDate>
       
-      <guid>https://www.aiforagc.com/posts/go_context/</guid>
+      <guid>http://www.aiforagc.com/posts/go_context/</guid>
       <description>1.场景 最近在写redis 集群的控制面，有一个功能是删除集群中的某个redis 实例，需要在60秒内向整个集群的其他redis 实例发生forg</description>
     </item>
     

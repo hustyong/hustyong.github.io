@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>minikube on jieyong&#39;s Blog</title>
-    <link>https://www.aiforagc.com/tags/minikube/</link>
+    <link>http://www.aiforagc.com/tags/minikube/</link>
     <description>Recent content in minikube on jieyong&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 10 Mar 2023 13:55:10 +0800</lastBuildDate><atom:link href="https://www.aiforagc.com/tags/minikube/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 13:55:10 +0800</lastBuildDate><atom:link href="http://www.aiforagc.com/tags/minikube/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>快速搭建k8s学习环境：minikube实战教程</title>
-      <link>https://www.aiforagc.com/posts/minikube_install/</link>
+      <link>http://www.aiforagc.com/posts/minikube_install/</link>
       <pubDate>Fri, 10 Mar 2023 13:55:10 +0800</pubDate>
       
-      <guid>https://www.aiforagc.com/posts/minikube_install/</guid>
+      <guid>http://www.aiforagc.com/posts/minikube_install/</guid>
       <description>作者最近在研究和k8s相关的项目，为了学习k8s，在mac上安装了Minikube。Minikube是一款单机搭建和管理Kubernetes</description>
     </item>
     
